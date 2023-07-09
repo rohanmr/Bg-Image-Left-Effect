@@ -1,6 +1,6 @@
 # Bg-Image-Left-Effect
 
-Download the Code and Open in the VS code.
+Download the Code and Open it in the VS code.
 
 Run on Live-Server.
 
